@@ -4,3 +4,7 @@ There is a PS1 file that needs the psm1 and a .env  then there is a exe that sho
 
 ## Downloads
 [Exe](https://github.com/mrdatawolf/PS_Email_Forensic_Review/raw/refs/heads/main/Parse-OutlookHeaders_unified.exe)
+
+<!-- Purpose: give detailed info from any emails in a special folder of your Outlook client -->
+<!-- INSTALL_COMMAND: curl -o Parse-OutlookHeaders_unified.ps1 https://github.com/mrdatawolf/PS_Email_Forensic_Review/raw/main/Parse-OutlookHeaders_unified.ps1 -->
+<!-- RUN_COMMAND: Parse-OutlookHeaders_unified.ps1 -->
